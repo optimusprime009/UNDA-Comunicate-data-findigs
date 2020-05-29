@@ -1,0 +1,5 @@
+# ignore masterfile
+master_file.csv
+
+# ignore copy of the cleaned masterfile
+clean_master_file.csv
