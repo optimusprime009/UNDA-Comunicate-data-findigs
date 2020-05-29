@@ -1,7 +1,7 @@
 # Customer habits of [Ford GoBike System](https://www.fordgobike.com/) in 2018
 
-<span style="color: gray; font-size:1em;">Mateusz Zajac</span>
-<br><span style="color: gray; font-size:1em;">Feb-2019</span>
+<span style="color: gray; font-size:1em;">Himanshu Tripathi</span>
+<br><span style="color: gray; font-size:1em;">May-2020</span>
 
 ## Dataset
 
